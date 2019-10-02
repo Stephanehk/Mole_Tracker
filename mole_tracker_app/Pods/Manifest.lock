@@ -1,0 +1,16 @@
+PODS:
+  - expanding-collection (3.1.0)
+
+DEPENDENCIES:
+  - expanding-collection
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - expanding-collection
+
+SPEC CHECKSUMS:
+  expanding-collection: 7eb1fc48c6ec5e00c8887fe46c595c31b81b578a
+
+PODFILE CHECKSUM: 3f1cd14c8cff93d986bd452eeab6c3ec8bfbc961
+
+COCOAPODS: 1.7.1
